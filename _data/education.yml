@@ -1,9 +1,23 @@
 # Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+# - layout: left (options: left, right, top, top-right, top-middle)
+#  name: Institution name
+#  dates: Date Range (eg. 2016 - 2019)
+#  qualification: Qualifications (eg. BA Performing Arts)
+#  quote: >
+#    Short institution or course description (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    Description of qualification
+- layout: top-middle
+  name: Programming Mentorship
+  dates: 2017 - 2018
+  qualification: Ruby, Ruby on Rails, HTML, CSS, Javascript, Databases 
+
+- layout: top-middle
+  name: Business Management Systems
+  dates: 2006 - 2007
+  qualification: Master
+
+- layout: top-middle
+  name: Univeristy of Zaragoza
+  dates: 2002 - 2006
+  qualification: Quemical Engineer
