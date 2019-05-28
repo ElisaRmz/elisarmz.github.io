@@ -26,7 +26,7 @@ linkedin_username: elisaramirezalonso
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-   I'm a proactive person, traying to improve myself every day.
+  Former Quality Systems Consultant diving into development world. Junior Ruby on Rails developer. Business English Level. 
 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -47,8 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  Languages: English 
+# more_content: | # this will include new lines to allow paragraphs
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*

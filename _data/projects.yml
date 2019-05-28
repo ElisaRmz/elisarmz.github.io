@@ -9,9 +9,9 @@
 #     Description about the work on/with the project
 
 - layout: top-middle
-  name: Garden
+  name: Garden Organizer
   link: https://github.com/ElisaRmz/garden
 
 - layout: top-middle
-  name: Todo
+  name: Task Manager
   link: https://github.com/ElisaRmz/todo
